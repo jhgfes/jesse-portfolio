@@ -25,15 +25,19 @@ The website includes:
 ## Projects
 
 ### Digital Buck Converter
+
 A digitally controlled buck converter developed using an ESP32 with PWM control, voltage and current monitoring, closed-loop output control, and a web-based dashboard.
 
 ### SCADA Dashboard
+
 A SCADA-style monitoring dashboard used to display system process data, equipment status, power information, and network-connected devices.
 
 ## GitHub Pages
 
-The GitHub Pages deployment link will be added after the website is deployed.
+The deployed portfolio can be viewed here:
+
+https://jhgfes.github.io/jesse-portfolio/
 
 ## Viewing the Project
 
-The project can be viewed by opening `index.html` in a web browser or by using the GitHub Pages deployment link once deployment is complete.
+The project can be viewed by opening `index.html` in a web browser or by visiting the GitHub Pages deployment link above.
